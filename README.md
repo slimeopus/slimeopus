@@ -20,3 +20,12 @@
 #### IDE & Tools
 ![VS Code](https://shields.io)
 ![Zed](https://shields.io)
+
+### 📊 Моя статистика GitHub
+
+<p align="left">
+  <img src="https://vercel.app" alt="slimeopus github stats" height="180" />
+  <img src="https://vercel.app" alt="Top Languages" height="180" />
+</p>
+
+
